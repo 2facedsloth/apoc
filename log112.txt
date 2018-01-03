@@ -1,0 +1,298 @@
+This is one of the logs from when I tried to start the apocalypse
+
+[23:16:46] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[23:16:46] [Server thread/INFO]: Loading properties
+[23:16:46] [Server thread/INFO]: Default game type: SURVIVAL
+[23:16:46] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[23:16:46] [Server thread/INFO]: Debug logging is disabled
+[23:16:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:16:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:16:46] [Server thread/INFO]: Generating keypair
+[23:16:46] [Server thread/INFO]: Starting Minecraft server on (ip)
+[23:16:46] [Server thread/INFO]: Using default channel type
+[23:16:46] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:16:46] [Server thread/INFO]: [SolarApocalypse] Loading SolarApocalypse v2.3.4
+[23:16:46] [Server thread/INFO]: Preparing level "world"
+[23:16:46] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:16:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:16:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:16:46] [Server thread/INFO]: View Distance: 10
+[23:16:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:16:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:16:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:16:46] [Server thread/INFO]: Random Lighting Updates: false
+[23:16:46] [Server thread/INFO]: Structure Info Saving: true
+[23:16:46] [Server thread/INFO]: Mob Spawn Range: 4
+[23:16:46] [Server thread/INFO]: Max TNT Explosions: 100
+[23:16:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:16:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:16:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:16:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:16:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:16:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:16:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:16:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:16:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:16:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:16:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:16:47] [Server thread/INFO]: View Distance: 10
+[23:16:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:16:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:16:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:16:47] [Server thread/INFO]: Random Lighting Updates: false
+[23:16:47] [Server thread/INFO]: Structure Info Saving: true
+[23:16:47] [Server thread/INFO]: Mob Spawn Range: 4
+[23:16:47] [Server thread/INFO]: Max TNT Explosions: 100
+[23:16:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:16:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:16:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:16:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:16:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:16:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:16:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:16:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:16:47] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4847323790777003900)
+[23:16:48] [Server thread/INFO]: Preparing spawn area: 31%
+[23:16:49] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4847323790777003900)
+[23:16:49] [Server thread/INFO]: [SolarApocalypse] Enabling SolarApocalypse v2.3.4
+[23:16:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:16:49] [Server thread/INFO]: Done (2.759s)! For help, type "help" or "?"
+[23:17:36] [Server thread/INFO]: treepuncher73 logged in with entity id 400 at ([world]247.5, 82.0, 241.5)
+[23:17:52] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:18:06] [Server thread/INFO]: Opped treepuncher73
+[23:19:02] [Server thread/INFO]: treepuncher73 issued server command: /seed
+[23:19:13] [Server thread/INFO]: treepuncher73 issued server command: /god
+[23:19:18] [Server thread/INFO]: treepuncher73 issued server command: /godmode
+[23:19:40] [Server thread/INFO]: treepuncher73 issued server command: /gamemode 1
+[23:19:40] [Server thread/INFO]: [treepuncher73: Set own game mode to Creative Mode]
+[23:20:37] [Server thread/INFO]: treepuncher73 issued server command: /time set 8000
+[23:20:37] [Server thread/INFO]: [treepuncher73: Set the time to 8000]
+[23:21:11] [Server thread/INFO]: treepuncher73 issued server command: /time set 0
+[23:21:11] [Server thread/INFO]: [treepuncher73: Set the time to 0]
+[23:21:21] [Server thread/INFO]: treepuncher73 issued server command: /set time 240000
+[23:22:11] [Server thread/INFO]: treepuncher73 issued server command: /time set 17999
+[23:22:11] [Server thread/INFO]: [treepuncher73: Set the time to 17999]
+[23:22:22] [Server thread/INFO]: treepuncher73 issued server command: /plugins
+[23:24:08] [Server thread/INFO]: treepuncher73 issued server command: /gamemode 0
+[23:24:08] [Server thread/INFO]: [treepuncher73: Set own game mode to Survival Mode]
+[23:24:16] [Server thread/INFO]: treepuncher73 issued server command: /gamemode 1
+[23:24:16] [Server thread/INFO]: [treepuncher73: Set own game mode to Creative Mode]
+[23:24:34] [Server thread/INFO]: treepuncher73 issued server command: /gamemode 0
+[23:24:34] [Server thread/INFO]: [treepuncher73: Set own game mode to Survival Mode]
+[23:24:57] [Server thread/INFO]: treepuncher73 issued server command: /apocadmin
+[23:25:25] [Server thread/INFO]: treepuncher73 issued server command: /apocadmin world start
+[23:25:25] [Server thread/INFO]: [SolarApocalypse] C:\Users\treepuncher73\Desktop\mineserverpoopoo\world\ApocConfig.yml Missing Making New one
+[23:25:25] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'apocadmin' in plugin SolarApocalypse v2.3.4
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_121]
+    at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_121]
+    at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.configuration.file.FileConfiguration.load(Ljava/io/InputStream;)V
+    at info.nothingspecial.SolarApocalypse.ApocWorld.loadConfig(ApocWorld.java:59) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocWorld.<init>(ApocWorld.java:33) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.realStartUP(ApocalypseContoler.java:68) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.StartUP(ApocalypseContoler.java:52) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.Apoc_ComCore.onCommand(Apoc_ComCore.java:242) ~[?:?]
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    ... 15 more
+[23:25:44] [Server thread/INFO]: treepuncher73 issued server command: /apocadmin start
+[23:25:44] [Server thread/INFO]: [SolarApocalypse] C:\Users\treepuncher73\Desktop\mineserverpoopoo\world\ApocConfig.yml Missing Making New one
+[23:25:44] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'apocadmin' in plugin SolarApocalypse v2.3.4
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_121]
+    at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_121]
+    at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.configuration.file.FileConfiguration.load(Ljava/io/InputStream;)V
+    at info.nothingspecial.SolarApocalypse.ApocWorld.loadConfig(ApocWorld.java:59) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocWorld.<init>(ApocWorld.java:33) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.realStartUP(ApocalypseContoler.java:68) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.StartUP(ApocalypseContoler.java:52) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.Apoc_ComCore.onCommand(Apoc_ComCore.java:242) ~[?:?]
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    ... 15 more
+[23:26:25] [Server thread/INFO]: treepuncher73 issued server command: /ApocAdmin world start
+[23:26:25] [Server thread/INFO]: [SolarApocalypse] C:\Users\treepuncher73\Desktop\mineserverpoopoo\world\ApocConfig.yml Missing Making New one
+[23:26:25] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'apocadmin' in plugin SolarApocalypse v2.3.4
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_121]
+    at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_121]
+    at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.configuration.file.FileConfiguration.load(Ljava/io/InputStream;)V
+    at info.nothingspecial.SolarApocalypse.ApocWorld.loadConfig(ApocWorld.java:59) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocWorld.<init>(ApocWorld.java:33) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.realStartUP(ApocalypseContoler.java:68) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.StartUP(ApocalypseContoler.java:52) ~[?:?]
+    at info.nothingspecial.SolarApocalypse.Apoc_ComCore.onCommand(Apoc_ComCore.java:242) ~[?:?]
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    ... 15 more
+[23:30:05] [Server thread/INFO]: treepuncher73 issued server command: /ApocAdmin world start
+[23:30:05] [Server thread/ERROR]: Cannot load world\ApocConfig.yml
+org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 2, column 1:
+    Day0Reset 
+    ^
+could not find expected ':'
+ in 'string', line 4, column 1:
+    Effects_Day1:
+    ^
+
+    at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:178) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at info.nothingspecial.SolarApocalypse.ApocWorld.loadConfig(ApocWorld.java:46) [SolarApocalypse.jar:?]
+    at info.nothingspecial.SolarApocalypse.ApocWorld.<init>(ApocWorld.java:33) [SolarApocalypse.jar:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.realStartUP(ApocalypseContoler.java:68) [SolarApocalypse.jar:?]
+    at info.nothingspecial.SolarApocalypse.ApocalypseContoler.StartUP(ApocalypseContoler.java:52) [SolarApocalypse.jar:?]
+    at info.nothingspecial.SolarApocalypse.Apoc_ComCore.onCommand(Apoc_ComCore.java:242) [SolarApocalypse.jar:?]
+    at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:649) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_121]
+    at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_121]
+    at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
+ in 'string', line 2, column 1:
+    Day0Reset 
+    ^
+could not find expected ':'
+ in 'string', line 4, column 1:
+    Effects_Day1:
+    ^
+
+    at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:466) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:585) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:157) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:147) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:133) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:140) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
+    ... 24 more
+[23:30:05] [Server thread/INFO]: -------- World Settings For [world_ApocRegrow] --------
+[23:30:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:30:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:30:05] [Server thread/INFO]: View Distance: 10
+[23:30:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:30:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:30:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:30:05] [Server thread/INFO]: Random Lighting Updates: false
+[23:30:05] [Server thread/INFO]: Structure Info Saving: true
+[23:30:05] [Server thread/INFO]: Mob Spawn Range: 4
+[23:30:05] [Server thread/INFO]: Max TNT Explosions: 100
+[23:30:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:30:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:30:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:30:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[23:30:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:30:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:30:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:30:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:30:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4847323790777003900)
+[23:30:07] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 8%
+[23:30:08] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 20%
+[23:30:09] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 28%
+[23:30:10] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 36%
+[23:30:11] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 44%
+[23:30:12] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 52%
+[23:30:13] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 60%
+[23:30:14] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 69%
+[23:30:15] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 77%
+[23:30:16] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 85%
+[23:30:17] [Server thread/INFO]: Preparing spawn area for world_ApocRegrow, 97%
+[23:30:22] [Server thread/INFO]: [SolarApocalypse] 0.0 Server Lag Detected, Skipping this Update Cycle on world
+[23:32:57] [Server thread/INFO]: Stopping the server
+[23:32:57] [Server thread/INFO]: Stopping server
+[23:32:57] [Server thread/INFO]: [SolarApocalypse] Disabling SolarApocalypse v2.3.4
+[23:32:57] [Server thread/INFO]: Saving players
+[23:32:57] [Server thread/INFO]: treepuncher73 lost connection: Server closed
+[23:32:57] [Server thread/INFO]: treepuncher73 left the game
+[23:32:58] [Server thread/INFO]: Saving worlds
+[23:32:58] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:32:58] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[23:32:58] [Server thread/INFO]: Saving chunks for level 'world_ApocRegrow'/overworld
